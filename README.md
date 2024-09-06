@@ -1,4 +1,5 @@
 # BioMachine - O Seu Portal para o Mundo da Biologia
+Um site realizado assistido ao Projeto Alura + Gemini
 
 ## Descrição
 
@@ -12,7 +13,7 @@ O BioMachine é um site web interativo que oferece uma plataforma para explorar 
 
 ## Como usar
 
-1. **Acesse o site:** Visite https://seu-site.com
+1. **Acesse o site:** Visite https://alura-gemini-five.vercel.app/
 2. **Digite sua pesquisa:** Insira o termo que você deseja pesquisar no campo de busca.
 3. **Explore os resultados:** Os resultados da sua pesquisa serão exibidos na página, com links para fontes confiáveis.
 
@@ -29,43 +30,13 @@ Contribuições são bem-vindas! Se você quiser ajudar a melhorar o BioMachine,
 1. **Fork** este repositório.
 2. **Crie uma nova branch** para sua alteração.
 3. **Faça suas alterações** e commit.
-4. **Envie um pull request.**
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.   
+4. **Envie um pull request.** 
 
 
 ## Autores
 
-* **Seu Nome** - Desenvolvedor
+* **Eduardo Guimarães Coeli** - Desenvolvedor
 
 ## Agradecimentos
 
 Agradecemos à comunidade open source pelas ferramentas e bibliotecas utilizadas neste projeto.
-
-## Próximos Passos
-
-* **Expandir o banco de dados:** Adicionar mais temas e artigos sobre biologia.
-* **Implementar filtros:** Permitir que os usuários filtrem os resultados por categoria ou dificuldade.
-* **Melhorar a interface:** Criar uma interface mais visualmente atraente e responsiva.
-* **Adicionar funcionalidades sociais:** Permitir que os usuários compartilhem os resultados nas redes sociais.
-
-## Demonstração
-
-[Insira aqui um GIF ou vídeo demonstrando o funcionamento do site]
-
-**Observações:**
-
-* **Personalize:** Adapte o README.md para refletir as características específicas do seu projeto.
-* **Imagens e GIFs:** Utilize imagens e GIFs para tornar o README.md mais visualmente atraente.
-* **Links:** Inclua links para a documentação, repositórios de dependências e outros recursos relevantes.
-* **Atualize regularmente:** Mantenha o README.md atualizado para refletir as mudanças no seu projeto.
-
-**Dicas Adicionais:**
-
-* **Use Markdown:** O Markdown é uma linguagem de marcação leve que permite formatar o texto de forma simples e fácil.
-* **Seja claro e conciso:** Use linguagem clara e objetiva para explicar o seu projeto.
-* **Destaque os pontos fortes:** Enfatize os recursos mais interessantes do seu projeto.
-* **Incentive a colaboração:** Mostre que você está aberto a contribuições e sugestões.
-
